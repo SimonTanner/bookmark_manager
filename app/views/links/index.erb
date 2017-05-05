@@ -1,0 +1,12 @@
+<h1>Bookmark Manager</h1>
+<p></p>
+<h2>Bookmarks</h2>
+
+<ul id='links'>
+  <% @links.each do |link| %>
+  <li>
+    Title: <%= link.title %>
+    URL: <%= link.url %>
+  </li>
+  <% end %>
+</ul>

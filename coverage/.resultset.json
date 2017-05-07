@@ -14,6 +14,24 @@
         null,
         null
       ],
+      "/home/simon/Documents/Makers_Academy/Week_04/bookmark_manager/spec/features/checking_tags_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/home/simon/Documents/Makers_Academy/Week_04/bookmark_manager/spec/features/creating_links_spec.rb": [
         1,
         1,
@@ -49,6 +67,6 @@
         null
       ]
     },
-    "timestamp": 1494163969
+    "timestamp": 1494171229
   }
 }

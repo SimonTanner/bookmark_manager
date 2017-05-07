@@ -12,6 +12,16 @@
         1,
         1,
         null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/home/simon/Documents/Makers_Academy/Week_04/bookmark_manager/spec/features/checking_tags_spec.rb": [
@@ -67,6 +77,6 @@
         null
       ]
     },
-    "timestamp": 1494171229
+    "timestamp": 1494172318
   }
 }

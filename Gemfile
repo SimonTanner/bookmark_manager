@@ -10,6 +10,8 @@ gem 'rubocop'
 gem 'rack', '<=2.0.2'
 gem 'database_cleaner'
 gem 'json', '1.8.6'
+gem 'simplecov', require: false, group: :test
+gem 'simplecov-console', require: false, group: :test
 
 group :test do
   gem 'rspec'

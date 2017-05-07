@@ -75,8 +75,28 @@
         null,
         null,
         null
+      ],
+      "/home/simon/Documents/Makers_Academy/Week_04/bookmark_manager/spec/features/user_management_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/simon/Documents/Makers_Academy/Week_04/bookmark_manager/spec/web_helper.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1494172318
+    "timestamp": 1494185338
   }
 }
